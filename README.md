@@ -1,4 +1,4 @@
-#powiekszony naglowek
+# powiekszony naglowek
 
 paragraf 1
 
@@ -21,12 +21,12 @@ lista2
 - dwa
 - trzy
 
-'''py
+```py
 for x in range(1,100):
 	y = x**2
 	print(y)
-'''
+```
 
-fragment 'print(y)' kodu
+fragment `print(y)` kodu
 
 ![zdjecie.jpg](zdjecie.jpg)
